@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "solc-js": "^1.0.1",
+    "web3": "^1.8.1",
+    "web3next": "npm:web3@alpha"
+  },
+  "devDependencies": {
+    "@types/web3": "^1.2.2",
+    "prettier": "^2.8.2"
+  }
+}
